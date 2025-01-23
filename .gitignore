@@ -1,0 +1,9 @@
+
+datasets.zip
+/datasets
+/app/__pycache__
+/reports
+*.txt
+*.pth
+*.png
+*.pdf
